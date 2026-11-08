@@ -1,0 +1,19 @@
+IN7 Guide is an informational Android application built with Flutter, providing users with an easy way to explore organized guides, helpful information, and safety resources.
+
+Features:
+
+• Home: Access the application's main content through a simple interface.
+
+• Explore: Browse available guides and informational articles.
+
+• Search: Find relevant information quickly.
+
+• Bookmarks: Save useful articles for easy access later.
+
+• Safety: Read safety-related information and guidance.
+
+• Simple Interface: Enjoy a clean and easy-to-use native Flutter experience.
+
+IN7 Guide is designed to make informational content accessible through a lightweight mobile application.
+
+The application is developed using Flutter and Dart.

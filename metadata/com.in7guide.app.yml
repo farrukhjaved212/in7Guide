@@ -1,0 +1,20 @@
+
+Categories:
+  - Internet
+License: MIT
+AuthorName: Farrukh Javed
+SourceCode: https://github.com/farrukhjaved212/in7Guide
+IssueTracker: https://github.com/farrukhjaved212/in7Guide/issues
+
+AutoName: IN7 Guide
+
+RepoType: git
+Repo: https://github.com/farrukhjaved212/in7Guide
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: PLACEHOLDER
+    subdir: .
+    gradle:
+      - yes
